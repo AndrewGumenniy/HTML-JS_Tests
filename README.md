@@ -2,15 +2,15 @@
 
 ![JS basic](JS.png)
 
-<br>
+<br/>
 <h2>HTML Основы</h2>
 
 ![HTML basic](Html.png)
 
-<br>
+<br/>
 <h2>Количество пройденных тестов</h2>
 
 ![All tests](alltests.png)
 
-<br>
+<br/>
 ![rating](rating.png)
